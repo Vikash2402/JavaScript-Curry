@@ -16,4 +16,4 @@ It's the second line, which is the key. If you give a curried function, less arg
 
 This is all about JavaScript Curry.
 
-Hoping this will help you :)
+###Hoping this will help you :)
